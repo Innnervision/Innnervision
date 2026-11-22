@@ -29,6 +29,9 @@ Alongside our commercial software products, **Universe Invedors — Innnervision
 | **Mobile App & Game Development** | Production Android/Flutter apps, Play Store publishing compliance, AdMob mediation & performance tuning | Consumer Startups, Game Publishers, SMBs |
 | **White-Label Integration & Managed CI/CD** | Custom branding, domain setup, SSO/webhook integration & 1-year managed updates on our proven products | Fast-launch teams wanting proven code in days, not months |
 
+**Free to Talk · Flexible, Client-Tailored Pricing:**  
+Every project starts with a free, no-obligation conversation. Whether you are a solo founder with a starter budget, a growing SMB, or an enterprise team, we structure scope and pricing flexibly around what works for you.
+
 **Want to discuss a project or retainer?**  
 Email **`rajmukherjee042@gmail.com`** or submit a brief at **[universeinvedors.tech/white-label](https://universeinvedors.tech/white-label)** or **[games.universeinvedors.tech/enterprise/#inquiry](https://games.universeinvedors.tech/enterprise/#inquiry)**.
 
