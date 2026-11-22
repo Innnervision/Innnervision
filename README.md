@@ -10,10 +10,27 @@
 [![14 Web Utility Suites](https://img.shields.io/badge/14_Web_Tools-universeinvedors.info-8b5cf6?style=for-the-badge)](https://universeinvedors.info/info-hub)
 [![Google Play](https://img.shields.io/badge/Google_Play-Developer_Catalog-34d399?style=for-the-badge)](https://play.google.com/store/apps/dev?id=7748145387206361205)
 
-**Founded by Sourav Mukherjee** · Public Showcase & Client Portal for **Universe Invedors**  
+**Founded by Sourav Mukherjee** · Public Showcase, Product Catalog & **Custom Engineering Services** for **Universe Invedors**  
 *(Proprietary commercial source repositories are maintained privately under `@UniverseInvedors`.)*
 
 </div>
+
+---
+
+## Custom Engineering & B2B Project Services (Now Booking Clients)
+
+Alongside our commercial software products, **Universe Invedors — Innnervision** partners directly with startups, enterprises, agencies, and founders to design, build, and ship production software:
+
+| Service Line | What We Deliver | Ideal For |
+| :--- | :--- | :--- |
+| **AI & Document Automation** | Custom OCR/PDF pipelines, air-gapped on-premises document tools, LLM workflows & serverless GCP Cloud Run APIs | FinTechs, NBFCs, CA Firms, LegalTech, Logistics |
+| **Full-Stack Web & SaaS Engineering** | High-speed React/Vite/Next.js apps, Cloudflare Pages/Workers edge deployments, SEO-hardened multi-tool platforms | SaaS Founders, Digital Agencies, Enterprises |
+| **3D WebGL & Interactive Games** | Custom Three.js/WebGL 3D experiences, branded gamification mini-games, SuperApp/WebView instant games | Telecom VAS, Loyalty Apps, EdTech, Brand Campaigns |
+| **Mobile App & Game Development** | Production Android/Flutter apps, Play Store publishing compliance, AdMob mediation & performance tuning | Consumer Startups, Game Publishers, SMBs |
+| **White-Label Integration & Managed CI/CD** | Custom branding, domain setup, SSO/webhook integration & 1-year managed updates on our proven products | Fast-launch teams wanting proven code in days, not months |
+
+**Want to discuss a project or retainer?**  
+Email **`rajmukherjee042@gmail.com`** or submit a brief at **[universeinvedors.tech/white-label](https://universeinvedors.tech/white-label)** or **[games.universeinvedors.tech/enterprise/#inquiry](https://games.universeinvedors.tech/enterprise/#inquiry)**.
 
 ---
 
