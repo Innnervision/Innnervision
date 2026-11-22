@@ -78,11 +78,12 @@ Fast, local-first web utilities running directly in the browser with no daily ta
 
 ---
 
-## Commercial Licensing & Inquiries
+## Commercial Licensing, Official Profiles & Inquiries
 
 - **Enterprise WebGL Game Licensing:** [games.universeinvedors.tech/enterprise/#inquiry](https://games.universeinvedors.tech/enterprise/#inquiry)
 - **White-Label SaaS & Custom Builds:** [universeinvedors.tech/white-label](https://universeinvedors.tech/white-label)
 - **Instant Source Bundles:** [rajmukherjee2.gumroad.com](https://rajmukherjee2.gumroad.com)
+- **Official Profiles:** [LinkedIn](https://www.linkedin.com/in/sourav-mukherjee-5547a1260/) · [YouTube (`@universeinvedors`)](https://www.youtube.com/@universeinvedors) · [Google Play](https://play.google.com/store/apps/dev?id=7748145387206361205) · [Instagram](https://www.instagram.com/rajsouravadi/) · [Facebook](https://www.facebook.com/profile.php?id=100047969259545) · [Upwork](https://www.upwork.com/freelancers/~01194d6e31defc3129) · [Founder Portfolio](https://sourav.universeinvedors.tech/)
 - **Direct Business Contact:** `rajmukherjee042@gmail.com`
 
 ---
